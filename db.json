@@ -24,12 +24,7 @@
       "id": 5,
       "name": "Chelsey Dietrich",
       "pfpLink": "https://picsum.photos/seed/5/120/120"
-    },
-    {
-      "id": 6,
-      "name": "Mrs. Dennis Schulist",
-      "pfpLink": "https://picsum.photos/seed/6/120/120"
-    },
+    }
   ],
   "albums": [
     {
@@ -151,36 +146,6 @@
       "id": 43,
       "title": "aperiam doloremque nihil",
       "coverLink": "https://picsum.photos/seed/53/600/300"
-    },
-    {
-      "userId": 6,
-      "id": 51,
-      "title": "odit laboriosam sint quia cupiditate animi quis",
-      "coverLink": "https://picsum.photos/seed/61/600/300"
-    },
-    {
-      "userId": 6,
-      "id": 52,
-      "title": "necessitatibus quas et sunt at voluptatem",
-      "coverLink": "https://picsum.photos/seed/62/600/300"
-    },
-    {
-      "userId": 6,
-      "id": 53,
-      "title": "est vel sequi voluptatem nemo quam molestiae modi enim",
-      "coverLink": "https://picsum.photos/seed/63/600/300"
-    },
-    {
-      "userId": 6,
-      "id": 54,
-      "title": "aut non illo amet perferendis",
-      "coverLink": "https://picsum.photos/seed/64/600/300"
-    },
-    {
-      "userId": 6,
-      "id": 55,
-      "title": "qui culpa itaque omnis in nesciunt architecto error",
-      "coverLink": "https://picsum.photos/seed/65/600/300"
     }
   ]
 }
