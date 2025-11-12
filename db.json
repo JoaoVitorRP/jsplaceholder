@@ -40,112 +40,258 @@
       "coverLink": "https://picsum.photos/seed/12/600/300"
     },
     {
-      "userId": 1,
-      "id": 3,
-      "title": "omnis laborum odio",
-      "coverLink": "https://picsum.photos/seed/13/600/300"
-    },
-    {
-      "userId": 1,
-      "id": 4,
-      "title": "non esse culpa molestiae omnis sed optio",
-      "coverLink": "https://picsum.photos/seed/14/600/300"
-    },
-    {
-      "userId": 1,
-      "id": 5,
-      "title": "eaque aut omnis a",
-      "coverLink": "https://picsum.photos/seed/15/600/300"
-    },
-    {
       "userId": 2,
-      "id": 11,
+      "id": 3,
       "title": "quam nostrum impedit mollitia quod et dolor",
       "coverLink": "https://picsum.photos/seed/21/600/300"
     },
     {
       "userId": 2,
-      "id": 12,
+      "id": 4,
       "title": "consequatur autem doloribus natus consectetur",
       "coverLink": "https://picsum.photos/seed/22/600/300"
     },
     {
       "userId": 2,
-      "id": 13,
+      "id": 5,
       "title": "ab rerum non rerum consequatur ut ea unde",
       "coverLink": "https://picsum.photos/seed/23/600/300"
     },
     {
-      "userId": 2,
-      "id": 14,
-      "title": "ducimus molestias eos animi atque nihil",
-      "coverLink": "https://picsum.photos/seed/24/600/300"
-    },
-    {
       "userId": 3,
-      "id": 21,
+      "id": 6,
       "title": "repudiandae voluptatem optio est consequatur rem in temporibus et",
       "coverLink": "https://picsum.photos/seed/31/600/300"
     },
     {
-      "userId": 3,
-      "id": 22,
-      "title": "et rem non provident vel ut",
-      "coverLink": "https://picsum.photos/seed/32/600/300"
-    },
-    {
-      "userId": 3,
-      "id": 23,
-      "title": "incidunt quisquam hic adipisci sequi",
-      "coverLink": "https://picsum.photos/seed/33/600/300"
-    },
-    {
-      "userId": 3,
-      "id": 24,
-      "title": "dolores ut et facere placeat",
-      "coverLink": "https://picsum.photos/seed/34/600/300"
-    },
-    {
-      "userId": 3,
-      "id": 25,
-      "title": "vero maxime id possimus sunt neque et consequatur",
-      "coverLink": "https://picsum.photos/seed/35/600/300"
-    },
-    {
-      "userId": 3,
-      "id": 26,
-      "title": "quibusdam saepe ipsa vel harum",
-      "coverLink": "https://picsum.photos/seed/36/600/300"
-    },
-    {
       "userId": 4,
-      "id": 31,
+      "id": 7,
       "title": "adipisci laborum fuga laboriosam",
       "coverLink": "https://picsum.photos/seed/41/600/300"
     },
     {
       "userId": 4,
-      "id": 32,
+      "id": 8,
       "title": "reiciendis dolores a ut qui debitis non quo labore",
       "coverLink": "https://picsum.photos/seed/42/600/300"
     },
     {
       "userId": 5,
-      "id": 41,
+      "id": 9,
       "title": "ea voluptates maiores eos accusantium officiis tempore mollitia consequatur",
       "coverLink": "https://picsum.photos/seed/51/600/300"
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "id": 1,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "url": "https://picsum.photos/seed/p1-a1/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p1-a1/150/150"
     },
     {
-      "userId": 5,
-      "id": 42,
-      "title": "tenetur explicabo ea",
-      "coverLink": "https://picsum.photos/seed/52/600/300"
+      "albumId": 1,
+      "id": 2,
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "url": "https://picsum.photos/seed/p2-a1/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p2-a1/150/150"
     },
     {
-      "userId": 5,
-      "id": 43,
-      "title": "aperiam doloremque nihil",
-      "coverLink": "https://picsum.photos/seed/53/600/300"
+      "albumId": 1,
+      "id": 3,
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "url": "https://picsum.photos/seed/p3-a1/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p3-a1/150/150"
+    },
+    {
+      "albumId": 2,
+      "id": 4,
+      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "url": "https://picsum.photos/seed/p4-a2/768/1024?grayscale",
+      "thumbnailUrl": "https://picsum.photos/seed/p4-a2/150/150?grayscale"
+    },
+    {
+      "albumId": 2,
+      "id": 5,
+      "description": "Curabitur pretium, libero et tempor, nunc quam interdum nisl, et sollicitudin ante lectus in nisl.",
+      "url": "https://picsum.photos/seed/p5-a2/768/1024?grayscale",
+      "thumbnailUrl": "https://picsum.photos/seed/p5-a2/150/150?grayscale"
+    },
+    {
+      "albumId": 3,
+      "id": 6,
+      "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec a diam eu erat.",
+      "url": "https://picsum.photos/seed/p6-a3/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p6-a3/150/150"
+    },
+    {
+      "albumId": 3,
+      "id": 7,
+      "description": "Phasellus eget tellus quis magna tincidunt egestas. Nulla facilisi. Aenean volutpat nisl a nisl.",
+      "url": "https://picsum.photos/seed/p7-a3/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p7-a3/150/150"
+    },
+    {
+      "albumId": 3,
+      "id": 8,
+      "description": "Mauris non leo in nulla malesuada feugiat in a velit. Nam cursus, justo eu dictum.",
+      "url": "https://picsum.photos/seed/p8-a3/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p8-a3/150/150"
+    },
+    {
+      "albumId": 3,
+      "id": 9,
+      "description": "Donec vel justo sed nulla feugiat tempus at sit amet elit. Ut vitae lorem non.",
+      "url": "https://picsum.photos/seed/p9-a3/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p9-a3/150/150"
+    },
+    {
+      "albumId": 3,
+      "id": 10,
+      "description": "Fusce vitae magna non magna porttitor rhoncus. Sed ac sem sit amet sem feugiat.",
+      "url": "https://picsum.photos/seed/p10-a3/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p10-a3/150/150"
+    },
+    {
+      "albumId": 4,
+      "id": 11,
+      "description": "Aliquam erat volutpat. Nam scelerisque quam vitae magna volutpat, ac feugiat.",
+      "url": "https://picsum.photos/seed/p11-a4/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p11-a4/150/150"
+    },
+    {
+      "albumId": 4,
+      "id": 12,
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "url": "https://picsum.photos/seed/p12-a4/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p12-a4/150/150"
+    },
+    {
+      "albumId": 4,
+      "id": 13,
+      "description": "Quisque id est nec mi tempus euismod. In hac habitasse platea dictumst. Sed in urna.",
+      "url": "https://picsum.photos/seed/p13-a4/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p13-a4/150/150"
+    },
+    {
+      "albumId": 4,
+      "id": 14,
+      "description": "Nullam ac tortor vitae purus cursus egestas. Ut at est a magna tincidunt lacinia.",
+      "url": "https://picsum.photos/seed/p14-a4/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p14-a4/150/150"
+    },
+    {
+      "albumId": 5,
+      "id": 15,
+      "description": "Aenean vitae tellus ac felis ultrices scelerisque. Ut in dui sed nulla porta.",
+      "url": "https://picsum.photos/seed/p15-a5/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p15-a5/150/150"
+    },
+    {
+      "albumId": 5,
+      "id": 16,
+      "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.",
+      "url": "https://picsum.photos/seed/p16-a5/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p16-a5/150/150"
+    },
+    {
+      "albumId": 5,
+      "id": 17,
+      "description": "Maecenas at erat id mi euismod scelerisque. Nullam id est ut dui convallis.",
+      "url": "https://picsum.photos/seed/p17-a5/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p17-a5/150/150"
+    },
+    {
+      "albumId": 6,
+      "id": 18,
+      "description": "Proin ac massa quis nisl accumsan fringilla. In ut nunc in sapien pharetra.",
+      "url": "https://picsum.photos/seed/p18-a6/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p18-a6/150/150"
+    },
+    {
+      "albumId": 6,
+      "id": 19,
+      "description": "Integer non massa ac sem volutpat aliquet. Donec sit amet metus at erat.",
+      "url": "https://picsum.photos/seed/p19-a6/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p19-a6/150/150"
+    },
+    {
+      "albumId": 6,
+      "id": 20,
+      "description": "Sed interdum ante vitae magna mollis, in sollicitudin est consectetur. Sed vitae.",
+      "url": "https://picsum.photos/seed/p20-a6/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p20-a6/150/150"
+    },
+    {
+      "albumId": 6,
+      "id": 21,
+      "description": "Vestibulum volutpat lacus sit amet sem mattis, vitae volutpat tellus.",
+      "url": "https://picsum.photos/seed/p21-a6/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p21-a6/150/150"
+    },
+    {
+      "albumId": 6,
+      "id": 22,
+      "description": "Praesent tincidunt eros sed magna ultrices, eu laoreet velit bibendum. Ut sit amet.",
+      "url": "https://picsum.photos/seed/p22-a6/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p22-a6/150/150"
+    },
+    {
+      "albumId": 7,
+      "id": 23,
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "url": "https://picsum.photos/seed/p23-a7/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p23-a7/150/150"
+    },
+    {
+      "albumId": 7,
+      "id": 24,
+      "description": "Aliquam erat volutpat. Nam scelerisque quam vitae magna volutpat, ac feugiat.",
+      "url": "https://picsum.photos/seed/p24-a7/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p24-a7/150/150"
+    },
+    {
+      "albumId": 7,
+      "id": 25,
+      "description": "Fusce vitae magna non magna porttitor rhoncus. Sed ac sem sit amet sem feugiat.",
+      "url": "https://picsum.photos/seed/p25-a7/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p25-a7/150/150"
+    },
+    {
+      "albumId": 8,
+      "id": 26,
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "url": "https://picsum.photos/seed/p26-a8/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p26-a8/150/150"
+    },
+    {
+      "albumId": 8,
+      "id": 27,
+      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "url": "https://picsum.photos/seed/p27-a8/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p27-a8/150/150"
+    },
+    {
+      "albumId": 8,
+      "id": 28,
+      "description": "Curabitur pretium, libero et tempor, nunc quam interdum nisl, et sollicitudin ante lectus in nisl.",
+      "url": "https://picsum.photos/seed/p28-a8/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p28-a8/150/150"
+    },
+    {
+      "albumId": 8,
+      "id": 29,
+      "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec a diam eu erat.",
+      "url": "https://picsum.photos/seed/p29-a8/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p29-a8/150/150"
+    },
+    {
+      "albumId": 9,
+      "id": 30,
+      "description": "Phasellus eget tellus quis magna tincidunt egestas. Nulla facilisi. Aenean volutpat nisl a nisl.",
+      "url": "https://picsum.photos/seed/p30-a9/768/1024",
+      "thumbnailUrl": "https://picsum.photos/seed/p30-a9/150/150"
     }
   ]
 }
