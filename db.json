@@ -112,13 +112,6 @@
       "thumbnailUrl": "https://picsum.photos/seed/p4-a2/150/150?grayscale"
     },
     {
-      "albumId": 2,
-      "id": 5,
-      "description": "Curabitur pretium, libero et tempor, nunc quam interdum nisl, et sollicitudin ante lectus in nisl.",
-      "url": "https://picsum.photos/seed/p5-a2/768/1024?grayscale",
-      "thumbnailUrl": "https://picsum.photos/seed/p5-a2/150/150?grayscale"
-    },
-    {
       "albumId": 3,
       "id": 6,
       "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec a diam eu erat.",
@@ -131,13 +124,6 @@
       "description": "Phasellus eget tellus quis magna tincidunt egestas. Nulla facilisi. Aenean volutpat nisl a nisl.",
       "url": "https://picsum.photos/seed/p7-a3/768/1024",
       "thumbnailUrl": "https://picsum.photos/seed/p7-a3/150/150"
-    },
-    {
-      "albumId": 3,
-      "id": 8,
-      "description": "Mauris non leo in nulla malesuada feugiat in a velit. Nam cursus, justo eu dictum.",
-      "url": "https://picsum.photos/seed/p8-a3/768/1024",
-      "thumbnailUrl": "https://picsum.photos/seed/p8-a3/150/150"
     },
     {
       "albumId": 3,
@@ -175,13 +161,6 @@
       "thumbnailUrl": "https://picsum.photos/seed/p13-a4/150/150"
     },
     {
-      "albumId": 4,
-      "id": 14,
-      "description": "Nullam ac tortor vitae purus cursus egestas. Ut at est a magna tincidunt lacinia.",
-      "url": "https://picsum.photos/seed/p14-a4/768/1024",
-      "thumbnailUrl": "https://picsum.photos/seed/p14-a4/150/150"
-    },
-    {
       "albumId": 5,
       "id": 15,
       "description": "Aenean vitae tellus ac felis ultrices scelerisque. Ut in dui sed nulla porta.",
@@ -194,13 +173,6 @@
       "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.",
       "url": "https://picsum.photos/seed/p16-a5/768/1024",
       "thumbnailUrl": "https://picsum.photos/seed/p16-a5/150/150"
-    },
-    {
-      "albumId": 5,
-      "id": 17,
-      "description": "Maecenas at erat id mi euismod scelerisque. Nullam id est ut dui convallis.",
-      "url": "https://picsum.photos/seed/p17-a5/768/1024",
-      "thumbnailUrl": "https://picsum.photos/seed/p17-a5/150/150"
     },
     {
       "albumId": 6,
