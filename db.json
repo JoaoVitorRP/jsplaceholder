@@ -25,5 +25,126 @@
       "name": "Chelsey Dietrich",
       "pfpLink": "https://picsum.photos/seed/5/120/120"
     }
-  ]
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "quidem molestiae enim",
+      "coverLink": "https://picsum.photos/seed/11/600/300"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "sunt qui excepturi placeat culpa",
+      "coverLink": "https://picsum.photos/seed/12/600/300"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "omnis laborum odio",
+      "coverLink": "https://picsum.photos/seed/13/600/300"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "non esse culpa molestiae omnis sed optio",
+      "coverLink": "https://picsum.photos/seed/14/600/300"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "eaque aut omnis a",
+      "coverLink": "https://picsum.photos/seed/15/600/300"
+    },
+    {
+      "userId": 2,
+      "id": 11,
+      "title": "quam nostrum impedit mollitia quod et dolor",
+      "coverLink": "https://picsum.photos/seed/21/600/300"
+    },
+    {
+      "userId": 2,
+      "id": 12,
+      "title": "consequatur autem doloribus natus consectetur",
+      "coverLink": "https://picsum.photos/seed/22/600/300"
+    },
+    {
+      "userId": 2,
+      "id": 13,
+      "title": "ab rerum non rerum consequatur ut ea unde",
+      "coverLink": "https://picsum.photos/seed/23/600/300"
+    },
+    {
+      "userId": 2,
+      "id": 14,
+      "title": "ducimus molestias eos animi atque nihil",
+      "coverLink": "https://picsum.photos/seed/24/600/300"
+    },
+    {
+      "userId": 3,
+      "id": 21,
+      "title": "repudiandae voluptatem optio est consequatur rem in temporibus et",
+      "coverLink": "https://picsum.photos/seed/31/600/300"
+    },
+    {
+      "userId": 3,
+      "id": 22,
+      "title": "et rem non provident vel ut",
+      "coverLink": "https://picsum.photos/seed/32/600/300"
+    },
+    {
+      "userId": 3,
+      "id": 23,
+      "title": "incidunt quisquam hic adipisci sequi",
+      "coverLink": "https://picsum.photos/seed/33/600/300"
+    },
+    {
+      "userId": 3,
+      "id": 24,
+      "title": "dolores ut et facere placeat",
+      "coverLink": "https://picsum.photos/seed/34/600/300"
+    },
+    {
+      "userId": 3,
+      "id": 25,
+      "title": "vero maxime id possimus sunt neque et consequatur",
+      "coverLink": "https://picsum.photos/seed/35/600/300"
+    },
+    {
+      "userId": 3,
+      "id": 26,
+      "title": "quibusdam saepe ipsa vel harum",
+      "coverLink": "https://picsum.photos/seed/36/600/300"
+    },
+    {
+      "userId": 4,
+      "id": 31,
+      "title": "adipisci laborum fuga laboriosam",
+      "coverLink": "https://picsum.photos/seed/41/600/300"
+    },
+    {
+      "userId": 4,
+      "id": 32,
+      "title": "reiciendis dolores a ut qui debitis non quo labore",
+      "coverLink": "https://picsum.photos/seed/42/600/300"
+    },
+    {
+      "userId": 5,
+      "id": 41,
+      "title": "ea voluptates maiores eos accusantium officiis tempore mollitia consequatur",
+      "coverLink": "https://picsum.photos/seed/51/600/300"
+    },
+    {
+      "userId": 5,
+      "id": 42,
+      "title": "tenetur explicabo ea",
+      "coverLink": "https://picsum.photos/seed/52/600/300"
+    },
+    {
+      "userId": 5,
+      "id": 43,
+      "title": "aperiam doloremque nihil",
+      "coverLink": "https://picsum.photos/seed/53/600/300"
+    }
 }
