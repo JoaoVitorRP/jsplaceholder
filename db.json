@@ -30,26 +30,6 @@
       "name": "Mrs. Dennis Schulist",
       "pfpLink": "https://picsum.photos/seed/6/120/120"
     },
-    {
-      "id": 7,
-      "name": "Kurtis Weissnat",
-      "pfpLink": "https://picsum.photos/seed/7/120/120"
-    },
-    {
-      "id": 8,
-      "name": "Nicholas Runolfsdottir V",
-      "pfpLink": "https://picsum.photos/seed/8/120/120"
-    },
-    {
-      "id": 9,
-      "name": "Glenna Reichert",
-      "pfpLink": "https://picsum.photos/seed/9/120/120"
-    },
-    {
-      "id": 10,
-      "name": "Clementina DuBuque",
-      "pfpLink": "https://picsum.photos/seed/10/120/120"
-    }
   ],
   "albums": [
     {
@@ -201,84 +181,6 @@
       "id": 55,
       "title": "qui culpa itaque omnis in nesciunt architecto error",
       "coverLink": "https://picsum.photos/seed/65/600/300"
-    },
-    {
-      "userId": 7,
-      "id": 61,
-      "title": "delectus iusto et",
-      "coverLink": "https://picsum.photos/seed/71/600/300"
-    },
-    {
-      "userId": 7,
-      "id": 62,
-      "title": "eos ea non recusandae iste ut quasi",
-      "coverLink": "https://picsum.photos/seed/72/600/300"
-    },
-    {
-      "userId": 7,
-      "id": 63,
-      "title": "velit est quam",
-      "coverLink": "https://picsum.photos/seed/73/600/300"
-    },
-    {
-      "userId": 7,
-      "id": 64,
-      "title": "autem voluptatem amet iure quae",
-      "coverLink": "https://picsum.photos/seed/74/600/300"
-    },
-    {
-      "userId": 8,
-      "id": 71,
-      "title": "et vel corporis",
-      "coverLink": "https://picsum.photos/seed/81/600/300"
-    },
-    {
-      "userId": 9,
-      "id": 81,
-      "title": "quibusdam sapiente et",
-      "coverLink": "https://picsum.photos/seed/91/600/300"
-    },
-    {
-      "userId": 9,
-      "id": 82,
-      "title": "recusandae consequatur vel amet unde",
-      "coverLink": "https://picsum.photos/seed/92/600/300"
-    },
-    {
-      "userId": 10,
-      "id": 91,
-      "title": "repellendus praesentium debitis officiis",
-      "coverLink": "https://picsum.photos/seed/101/600/300"
-    },
-    {
-      "userId": 10,
-      "id": 92,
-      "title": "incidunt et et eligendi assumenda soluta quia recusandae",
-      "coverLink": "https://picsum.photos/seed/102/600/300"
-    },
-    {
-      "userId": 10,
-      "id": 93,
-      "title": "nisi qui dolores perspiciatis",
-      "coverLink": "https://picsum.photos/seed/103/600/300"
-    },
-    {
-      "userId": 10,
-      "id": 94,
-      "title": "quisquam a dolores et earum vitae",
-      "coverLink": "https://picsum.photos/seed/104/600/300"
-    },
-    {
-      "userId": 10,
-      "id": 95,
-      "title": "consectetur vel rerum qui aperiam modi eos aspernatur ipsa",
-      "coverLink": "https://picsum.photos/seed/105/600/300"
-    },
-    {
-      "userId": 10,
-      "id": 96,
-      "title": "unde et ut molestiae est molestias voluptatem sint",
-      "coverLink": "https://picsum.photos/seed/106/600/300"
     }
   ]
 }
